@@ -308,8 +308,8 @@ Pagina principal
   background-color: var(--title-color);
   border-radius: 50%;
   position: absolute;
-  top: 7rem;
-  right: 2rem;
+  top: 112px;
+  right: 32px;
 }
 
 .home__indicator::after {
